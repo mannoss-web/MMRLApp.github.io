@@ -1,4 +1,5 @@
----
+---<img width="1080" height="2400" alt="4210" src="https://github.com/user-attachments/assets/98ee43fe-3422-4f33-9fae-3617702d2283" />
+
 title: WebUI X - Next-Generation Module Interface Framework
 description: Discover WebUI X, MMRL's flagship framework for running, customizing, and debugging high-performance Android module interfaces across root and non-root environments.
 ---
